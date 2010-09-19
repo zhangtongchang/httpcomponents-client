@@ -34,10 +34,10 @@ HttpClient
     library with some HTTP specific functionality and integrates it with the 
     HttpComponents framework.
 
-    {{{apidocs/index.html}Javadocs}}
+    {{{./apidocs/index.html}Javadocs}}
     
-    {{{xref/index.html}Project sources}}
+    {{{./xref/index.html}Project sources}}
     
-    {{{dependencies.html}Dependencies}}    
+    {{{./dependencies.html}Dependencies}}    
     
-    {{{issue-tracking.html}Issue Tracking}}    
+    {{{./issue-tracking.html}Issue Tracking}}    

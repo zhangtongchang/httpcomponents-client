@@ -35,10 +35,10 @@ HttpClient
     HTTP client built on top of
     {{{/httpcomponents/httpcomponents-core/index.html}HttpCore}}
 
-    {{{apidocs/index.html}Javadocs}}
+    {{{./apidocs/index.html}Javadocs}}
     
-    {{{xref/index.html}Project sources}}
+    {{{./xref/index.html}Project sources}}
     
-    {{{dependencies.html}Dependencies}}    
+    {{{./dependencies.html}Dependencies}}    
     
-    {{{issue-tracking.html}Issue Tracking}}    
+    {{{./issue-tracking.html}Issue Tracking}}    
