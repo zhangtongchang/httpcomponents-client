@@ -85,7 +85,8 @@
         </includes>
       </resource>
     </resources>
-    <plugins>
+    <pluginManagement>
+    	<plugins>
       <plugin>
         <groupId>com.googlecode.maven-download-plugin</groupId>
         <artifactId>download-maven-plugin</artifactId>
@@ -117,7 +118,9 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
+  
+    </pluginManagement>
+    </build>
 
   <reporting>
     <plugins>
